@@ -1,0 +1,17 @@
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.2\PrimeFactorsUnitTest.deps.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.2\PrimeFactorsUnitTest.runtimeconfig.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.2\PrimeFactorsUnitTest.runtimeconfig.dev.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.2\PrimeFactorsUnitTest.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.2\PrimeFactorsUnitTest.pdb
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsUnitTest\obj\Debug\netcoreapp2.2\PrimeFactorsUnitTest.csprojAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsUnitTest\obj\Debug\netcoreapp2.2\PrimeFactorsUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsUnitTest\obj\Debug\netcoreapp2.2\PrimeFactorsUnitTest.AssemblyInfoInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsUnitTest\obj\Debug\netcoreapp2.2\PrimeFactorsUnitTest.AssemblyInfo.cs
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsUnitTest\obj\Debug\netcoreapp2.2\PrimeFactorsUnitTest.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsUnitTest\obj\Debug\netcoreapp2.2\PrimeFactorsUnitTest.pdb
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.2\PrimeFactors.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsUnitTest\bin\Debug\netcoreapp2.2\PrimeFactors.pdb
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsUnitTest\obj\Debug\netcoreapp2.2\PrimeFactorsUnitTest.csproj.CopyComplete

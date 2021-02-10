@@ -1,0 +1,11 @@
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Instrumenting\obj\Release\netcoreapp2.2\Instrumenting.csprojAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Instrumenting\obj\Release\netcoreapp2.2\Instrumenting.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Instrumenting\obj\Release\netcoreapp2.2\Instrumenting.AssemblyInfoInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Instrumenting\obj\Release\netcoreapp2.2\Instrumenting.AssemblyInfo.cs
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Instrumenting\bin\Release\netcoreapp2.2\Instrumenting.deps.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Instrumenting\bin\Release\netcoreapp2.2\Instrumenting.runtimeconfig.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Instrumenting\bin\Release\netcoreapp2.2\Instrumenting.runtimeconfig.dev.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Instrumenting\bin\Release\netcoreapp2.2\Instrumenting.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Instrumenting\bin\Release\netcoreapp2.2\Instrumenting.pdb
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Instrumenting\obj\Release\netcoreapp2.2\Instrumenting.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Instrumenting\obj\Release\netcoreapp2.2\Instrumenting.pdb

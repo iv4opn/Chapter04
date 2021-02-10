@@ -1,0 +1,11 @@
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\WritingFunctions\bin\Debug\netcoreapp2.2\WritingFunctions.deps.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\WritingFunctions\bin\Debug\netcoreapp2.2\WritingFunctions.runtimeconfig.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\WritingFunctions\bin\Debug\netcoreapp2.2\WritingFunctions.runtimeconfig.dev.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\WritingFunctions\bin\Debug\netcoreapp2.2\WritingFunctions.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\WritingFunctions\bin\Debug\netcoreapp2.2\WritingFunctions.pdb
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\WritingFunctions\obj\Debug\netcoreapp2.2\WritingFunctions.csprojAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\WritingFunctions\obj\Debug\netcoreapp2.2\WritingFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\WritingFunctions\obj\Debug\netcoreapp2.2\WritingFunctions.AssemblyInfoInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\WritingFunctions\obj\Debug\netcoreapp2.2\WritingFunctions.AssemblyInfo.cs
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\WritingFunctions\obj\Debug\netcoreapp2.2\WritingFunctions.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\WritingFunctions\obj\Debug\netcoreapp2.2\WritingFunctions.pdb

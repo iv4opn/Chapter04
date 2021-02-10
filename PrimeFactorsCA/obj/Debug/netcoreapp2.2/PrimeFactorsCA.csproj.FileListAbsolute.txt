@@ -1,0 +1,14 @@
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsCA\bin\Debug\netcoreapp2.2\PrimeFactorsCA.deps.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsCA\bin\Debug\netcoreapp2.2\PrimeFactorsCA.runtimeconfig.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsCA\bin\Debug\netcoreapp2.2\PrimeFactorsCA.runtimeconfig.dev.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsCA\bin\Debug\netcoreapp2.2\PrimeFactorsCA.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsCA\bin\Debug\netcoreapp2.2\PrimeFactorsCA.pdb
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsCA\bin\Debug\netcoreapp2.2\PrimeFactors.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsCA\bin\Debug\netcoreapp2.2\PrimeFactors.pdb
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsCA\obj\Debug\netcoreapp2.2\PrimeFactorsCA.csprojAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsCA\obj\Debug\netcoreapp2.2\PrimeFactorsCA.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsCA\obj\Debug\netcoreapp2.2\PrimeFactorsCA.AssemblyInfoInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsCA\obj\Debug\netcoreapp2.2\PrimeFactorsCA.AssemblyInfo.cs
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsCA\obj\Debug\netcoreapp2.2\PrimeFactorsCA.csproj.CopyComplete
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsCA\obj\Debug\netcoreapp2.2\PrimeFactorsCA.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\PrimeFactorsCA\obj\Debug\netcoreapp2.2\PrimeFactorsCA.pdb

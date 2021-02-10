@@ -1,0 +1,11 @@
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Dumping\bin\Debug\netcoreapp2.2\Dumping.deps.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Dumping\bin\Debug\netcoreapp2.2\Dumping.runtimeconfig.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Dumping\bin\Debug\netcoreapp2.2\Dumping.runtimeconfig.dev.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Dumping\bin\Debug\netcoreapp2.2\Dumping.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Dumping\bin\Debug\netcoreapp2.2\Dumping.pdb
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Dumping\obj\Debug\netcoreapp2.2\Dumping.csprojAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Dumping\obj\Debug\netcoreapp2.2\Dumping.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Dumping\obj\Debug\netcoreapp2.2\Dumping.AssemblyInfoInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Dumping\obj\Debug\netcoreapp2.2\Dumping.AssemblyInfo.cs
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Dumping\obj\Debug\netcoreapp2.2\Dumping.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter04\Dumping\obj\Debug\netcoreapp2.2\Dumping.pdb
